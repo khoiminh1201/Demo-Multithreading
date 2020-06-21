@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
+//Code by Khoi
 
 struct sum_runner_struct {
 	long long limit;
