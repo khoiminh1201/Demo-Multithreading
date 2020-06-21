@@ -9,3 +9,5 @@ Demo chạy lập trình các thread cấp số cộng số từ 0-N
 $make
 $ls
 $./sum_on_many_threads <num1> <num2>....<num n>
+
+Code by Khoi
