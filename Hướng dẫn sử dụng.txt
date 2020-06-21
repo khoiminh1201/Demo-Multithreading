@@ -1,0 +1,11 @@
+-Random number.rar
+Chạy trên netbeans IDE với ngôn ngữ java
+Demo cho 1 số bât kì và các thread sẽ đoán
+
+-sum_on_many_threads.c
+Demo chạy lập trình các thread cấp số cộng số từ 0-N
+
+*** Đối với code chạy trên linux vui lòng Makefile trc khi run teriminal
+$make
+$ls
+$./sum_on_many_threads <num1> <num2>....<num n>
